@@ -1,4 +1,7 @@
 content .....
 
-
 make a change again in the master branch
+
+make a change in develop branch
+
+conflict is resolved
